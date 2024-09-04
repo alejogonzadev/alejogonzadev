@@ -4,7 +4,7 @@
 
 -  Mi name is Alejandro Gonzalez and I am located in the city of Medellin, Colombia! 😁
   
--  I’m a Software Engeneering student and I am a full stack developer, focused on M.E.A.N technologies (Mongo DB, Express.Js, Angular and Node.Js)
+-  I’m a Software Engineering student and I am a full stack developer, focused on M.E.A.N technologies (Mongo DB, Express.Js, Angular and Node.Js)
 
 -  Here you will be able to find some of my work! Thanks for checking and I am always open to some feedback!
 
