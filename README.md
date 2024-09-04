@@ -8,7 +8,7 @@
 
 -  Here you will be able to find some of my work! Thanks for checking and I am always open to some feedback!
 
--  I work and am continously learning about Python, Java and JavaScript. ⌨️ 
+-  I work and I'm continously learning about HTML, CSS, Python, Java and JavaScript. ⌨️ 
 
 -  I also have some knowledge of Data Analysis, SQL, and R. 📈📊
   
